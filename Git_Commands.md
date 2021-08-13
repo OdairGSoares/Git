@@ -1,5 +1,3 @@
-https://github.com/OdairGSoares/Git.git
-
 …or create a new repository on the command line
 
 echo "# Git" >> README.md
